@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nejravc\\source\\repos\\BeIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93FE92D-225D-4767-A144-D01EBB39CA62}|ElementPropertiesGetSet_1\\ElementPropertiesGetSet_1.csproj|c:\\users\\nejravc\\source\\repos\\bein\\elementpropertiesgetset_1\\elementpropertiesgetset_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93FE92D-225D-4767-A144-D01EBB39CA62}|ElementPropertiesGetSet_1\\ElementPropertiesGetSet_1.csproj|solutionrelative:elementpropertiesgetset_1\\elementpropertiesgetset_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC09988-12A0-443E-9C71-BB484D28A1F3}|GetElementsProperties_1\\GetElementsProperties_1.csproj|c:\\users\\nejravc\\source\\repos\\bein\\getelementsproperties_1\\getelementsproperties_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC09988-12A0-443E-9C71-BB484D28A1F3}|GetElementsProperties_1\\GetElementsProperties_1.csproj|solutionrelative:getelementsproperties_1\\getelementsproperties_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515AEBEE-3A99-4DA9-A95B-F72A8349A07A}|ElementPropertiesGetSet{515AEBEE-3A99-4DA9-A95B-F72A8349A07A}|C:\\Users\\nejravc\\source\\repos\\BeIN\\ElementPropertiesGetSet.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{515AEBEE-3A99-4DA9-A95B-F72A8349A07A}|ElementPropertiesGetSet{515AEBEE-3A99-4DA9-A95B-F72A8349A07A}|solutionrelative:ElementPropertiesGetSet.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A14992-E656-4207-98D5-302B98DFD1F4}|NewFolder1{B8A14992-E656-4207-98D5-302B98DFD1F4}|C:\\Users\\nejravc\\source\\repos\\BeIN\\GetElementsProperties.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8A14992-E656-4207-98D5-302B98DFD1F4}|NewFolder1{B8A14992-E656-4207-98D5-302B98DFD1F4}|solutionrelative:GetElementsProperties.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e51e6b11-02d8-4350-932f-095bcbeb79f8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetElementsProperties.xml",
+              "DocumentMoniker": "C:\\Users\\nejravc\\source\\repos\\BeIN\\GetElementsProperties.xml",
+              "RelativeDocumentMoniker": "GetElementsProperties.xml",
+              "ToolTip": "C:\\Users\\nejravc\\source\\repos\\BeIN\\GetElementsProperties.xml",
+              "RelativeToolTip": "GetElementsProperties.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-28T12:50:15.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetElementsProperties_1.cs",
+              "DocumentMoniker": "C:\\Users\\nejravc\\source\\repos\\BeIN\\GetElementsProperties_1\\GetElementsProperties_1.cs",
+              "RelativeDocumentMoniker": "GetElementsProperties_1\\GetElementsProperties_1.cs",
+              "ToolTip": "C:\\Users\\nejravc\\source\\repos\\BeIN\\GetElementsProperties_1\\GetElementsProperties_1.cs",
+              "RelativeToolTip": "GetElementsProperties_1\\GetElementsProperties_1.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAUwHgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:50:18.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElementPropertiesGetSet.xml",
+              "DocumentMoniker": "C:\\Users\\nejravc\\source\\repos\\BeIN\\ElementPropertiesGetSet.xml",
+              "RelativeDocumentMoniker": "ElementPropertiesGetSet.xml",
+              "ToolTip": "C:\\Users\\nejravc\\source\\repos\\BeIN\\ElementPropertiesGetSet.xml",
+              "RelativeToolTip": "ElementPropertiesGetSet.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-24T11:00:55.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementPropertiesGetSet_1.cs",
+              "DocumentMoniker": "C:\\Users\\nejravc\\source\\repos\\BeIN\\ElementPropertiesGetSet_1\\ElementPropertiesGetSet_1.cs",
+              "RelativeDocumentMoniker": "ElementPropertiesGetSet_1\\ElementPropertiesGetSet_1.cs",
+              "ToolTip": "C:\\Users\\nejravc\\source\\repos\\BeIN\\ElementPropertiesGetSet_1\\ElementPropertiesGetSet_1.cs",
+              "RelativeToolTip": "ElementPropertiesGetSet_1\\ElementPropertiesGetSet_1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADwv5oAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:17:47.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
