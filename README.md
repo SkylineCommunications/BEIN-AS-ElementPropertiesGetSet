@@ -1,0 +1,1 @@
+# BEIN-AS-ElementPropertiesGetSet
